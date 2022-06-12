@@ -7,3 +7,6 @@ Coloquei aqui pra ver como vai ser minha evolução até me formar.
 Hello, I'm studying Software Engineering.
 This is one of my first projects in python.
 I put it here to see how my evolution will be until I graduate.
+
+
+......

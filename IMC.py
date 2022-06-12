@@ -28,11 +28,12 @@ while True: #enquanto for verdadeiro ele vai continuar rodando {
     elif (imc >= 30):
         print("Você é obeso")
     #pergunta se quer continuar
-    continuar = input("deseja calcular? s ou n")
+    continuar = input("deseja calcular? s ou n: ")
+    print("")
     if continuar != 's' and continuar != 'S': #}
         break
 print("******************************************************")
-print(           "obrigado por usar a  calculadora")
+print("            obrigado por usar a calculadora           ") 
 print("******************************************************")
     
 
